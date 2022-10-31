@@ -4,7 +4,7 @@ function Footer() {
   return (
     <div
       className="grid grid-cols-1 md:grid-cols-4 bg-gray-100 
-    px-32 py-14 gap-y-10 text-gray-600"
+    px-32 py-14 gap-y-10 text-gray-600 text-center"
     >
       <div className="space-y-4 text-xs text-gray-800">
         <h5 className="font-bold">ABOUT</h5>
