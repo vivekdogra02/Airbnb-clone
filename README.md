@@ -1,27 +1,25 @@
-# Next.js + Tailwind CSS Example
+# Airbnb Clone 
+This project is related to Airbnb where you can see a nice calender to book the stays and a search page with Map around the center. A nice loader for transitioning from one page to another is awesome. Using Mapbox API to show the Calender.
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+### Tech Stack
+1. ReactJS 18
+2. NextJS Latest
+3. TailwindCSS
+4. MapBox API(react-map-gl)
+5. Bar Progress
+6. A Nice Calender for Booking the Stays
 
-## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+### Home Page
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+![image](https://user-images.githubusercontent.com/10473761/198986811-2b58af52-b3cb-43a6-8d4e-f7cb09a0b03f.png)
 
-## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+### Calender Search
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+![image](https://user-images.githubusercontent.com/10473761/198986951-551f37fe-7b83-415a-b6ea-1eca93962272.png)
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+### Search Page
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+![image](https://user-images.githubusercontent.com/10473761/198987160-62e61d44-c7ea-41d2-8008-9fc9d7d3fad8.png)
