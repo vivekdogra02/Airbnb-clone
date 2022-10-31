@@ -5,6 +5,6 @@ module.exports = {
     domains: ["links.papareact.com", "jsonkeeper.com"],
   },
   env: {
-    mapbox_key: process.env.MAPBOX_KEY,
+    MAPBOX_KEY: process.env.MAPBOX_KEY,
   },
 };

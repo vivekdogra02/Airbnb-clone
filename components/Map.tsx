@@ -23,7 +23,7 @@ function MapBox({ searchResult }: any) {
   return (
     <ReactMapGL
       mapStyle="mapbox://styles/vivekdogra02/cl9vsddy000ej15mgemltvsln"
-      mapboxAccessToken={process.env.mapbox_key}
+      mapboxAccessToken={process.env.MAPBOX_KEY}
       {...viewport}
       onMove={(evt: any) => setViewport(evt.viewState)}
     >
